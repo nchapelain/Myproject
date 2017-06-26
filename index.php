@@ -7,4 +7,5 @@
  */
 
 echo 'Test';
+test ok
 
